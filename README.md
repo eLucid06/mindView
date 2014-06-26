@@ -1,4 +1,4 @@
 mindView
 ========
 
-visualiser en "temps réel" les données brutes du mindWave + coefficients plages de fréquences calculés par fftw3
+lire et afficher des données enregistrées à partir du dispositif mindWave
